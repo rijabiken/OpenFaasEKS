@@ -5,7 +5,7 @@ Eks Cluster with OpenFaas deployment
 
 SOLUTION.
 
-# EKS CLUSTER CREATION USING TERRAFORM
+#EKS CLUSTER CREATION USING TERRAFORM
 1) Clone Git repo 
 2) Run "terraform init"
 3) Run "terraform plan" to review resources to be created 
